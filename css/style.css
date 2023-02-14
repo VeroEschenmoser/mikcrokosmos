@@ -163,7 +163,7 @@ img {
 }
 #body.home .header {
 	background: none;
-	margin-bottom: 400px;
+	margin-bottom: 200px;
 	overflow: hidden;
 	padding: 0;
 	width: 100%;
@@ -209,7 +209,7 @@ h2 {
 	position: relative;
 	text-align: center;
 	text-transform: uppercase;
-	width: 940px; 
+	
 }
 #body.home .header div a.more {
 	background-color: #000000;
