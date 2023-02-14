@@ -395,7 +395,7 @@ h3 {
 	display: block;
 	margin: 0;
 	padding: 0;
-	width: auto;
+	width: 200px;
 }
 #body.home .footer div ul li a:hover img {
 	filter: alpha(opacity=70);/* Needed for IE8 and old versions */
