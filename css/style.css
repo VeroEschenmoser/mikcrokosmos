@@ -242,7 +242,7 @@ h3 {
 	position: relative;
 	text-align: center;
 	text-transform: uppercase;
-	width: 940px; 
+	width: auto; 
 }  
 #body.home .header div ul {
 	display: inline-block;
