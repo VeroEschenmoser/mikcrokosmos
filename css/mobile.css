@@ -17,6 +17,12 @@
 		margin: 0;
 		padding: 0;
 		width: 100%;
+		
+	}
+	#body.home .header {
+		
+		margin-bottom: 200px;
+		
 	}
 	#body.home .header div, #body.home .body div, #body.home .footer div, #body.about .header div, #body .header div, #body.about .body div, #body.about .footer div, #body.about .section div {
 		margin: 0 auto;
