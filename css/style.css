@@ -747,6 +747,7 @@ h3 {
 }
 #body .header div ul {
 	display: flex;
+	flex-wrap: wrap;
 	max-width: 940px;
 	list-style: none outside none;
 	margin: 0;
@@ -861,7 +862,7 @@ h3 {
 	display: block;
 	margin: 0 auto;
 	padding: 3px 0 0;
-	width: 150px;
+	width: 200px;
 }
 #body .header div h2 {
 	color: #A3A3A3;
