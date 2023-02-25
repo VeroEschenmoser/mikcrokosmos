@@ -767,14 +767,16 @@ h3 {
 }
 .proyecto {
 	display: flex;
+	
+	
 }
 #body .header div ul li a {
 	display: block;
 	float: left;
-	height: 217px;
+	height: 50px;
 	margin: 20px 40px 0 0;
 	padding: 0;
-	width: 380px;
+	width: 250px;
 	text-align:center ;
 	color: #FFFFFF;
 }
@@ -861,7 +863,7 @@ h3 {
 #body .header div img {
 	display: block;
 	margin: 0 auto;
-	padding: 3px 0 0;
+	padding: 1px 0 0;
 	width: 200px;
 }
 #body .header div h2 {
@@ -872,10 +874,10 @@ h3 {
 	font-weight: normal;
 	line-height: 23px;
 	margin: 0 auto;
-	padding: 53px 0 27px;
+	padding: 10px 0 27px;
 	text-align: center;
 	text-transform: uppercase;
-	width: 780px;
+	/* width: 780px; */
 }
 #body .header div p {
 	color: #FFFFFF;
