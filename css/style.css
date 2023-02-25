@@ -1243,7 +1243,7 @@ h3 {
 	padding: 8px 0 62px;
 	text-align:center;
 	text-transform: uppercase;
-	width: 900px;
+	/* width: 900px; */
 }
 
 #body .header div form {
@@ -1355,7 +1355,7 @@ h3 {
 	padding: 0;
 	text-indent: -99999px;
 	width: 18px;
-	color: #FFFFFF;
+	color:white ;
 }
 #footer .connect div div a.Instagram {
 	background-position: 0 0;
