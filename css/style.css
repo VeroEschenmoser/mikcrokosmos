@@ -1221,17 +1221,31 @@ h3 {
 }
 #body .header .contact h2 {
 	color: #A3A3A3;
-	display: block;
+	display: flex;
 	font-family: audiowide-regular-webfont;
 	font-size: 23px;
 	font-weight: normal;
 	line-height: 23px;
-	margin: 0 auto;
+	margin: 0;
 	padding: 8px 0 62px;
 	text-align: center;
 	text-transform: uppercase;
 	width: 500px;
 }
+#body .header .contact h3 {
+	color: #A3A3A3;
+	display: flex;
+	font-family: audiowide-regular-webfont;
+	font-size: 20px;
+	font-weight: normal;
+	line-height: 23px;
+	margin: 0 auto;
+	padding: 8px 0 62px;
+	text-align:center;
+	text-transform: uppercase;
+	width: 900px;
+}
+
 #body .header div form {
 	display: block;
 	margin: 0 auto;
@@ -1333,31 +1347,32 @@ h3 {
 	width: 380px;
 }
 #footer .connect div div a {
-	background: url(../images/icons.png) no-repeat;
-	display: block;
-	float: left;
+	/* background: url(../images/icons.png) no-repeat; */
+	/* display: block;
+	float: left; */
 	height: 36px;
 	margin: 0;
 	padding: 0;
 	text-indent: -99999px;
 	width: 18px;
+	color: #FFFFFF;
 }
-#footer .connect div div a.facebook {
+#footer .connect div div a.Instagram {
 	background-position: 0 0;
 	margin: 0 0 0 16px;
 	width: 18px;
 }
-#footer .connect div div a.twitter {
+#footer .connect div div a.Whatsapp {
 	background-position: 0 -114px;
 	margin: 0 0 0 28px;
 	width: 44px;
 }
-#footer .connect div div a.googleplus {
+#footer .connect div div a.Telegram {
 	background-position: 0 -38px;
 	margin: 0 0 0 27px;
 	width: 37px;
 }
-#footer .connect div div a.pinterest {
+#footer .connect div div a.Mail {
 	background-position: 0 -76px;
 	margin: 0 0 0 29px;
 	width: 30px;
