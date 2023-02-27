@@ -1240,12 +1240,13 @@ h3 {
 	font-family: audiowide-regular-webfont;
 	font-size: 20px;
 	font-weight: normal;
-	line-height: 23px;
+	line-height: 30px;
 	margin: 0 auto;
 	padding: 8px 0 62px;
 	text-align:center;
 	text-transform: uppercase;
 	/* width: 900px; */
+	
 }
 
 #body .header div form {
@@ -1423,4 +1424,22 @@ h3 {
 }
 #wix a img {
 	width: 100%;
+}
+
+#body .integrantes>ul>li>p{
+	color: #a3a3a3;
+	display: flex;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: normal;
+	line-height: 14px;
+	margin: 0 0 29px;
+	padding: 0;
+	text-align:left;
+	text-transform: uppercase;
+	width: auto;
+	font-family: audiowide-regular-webfont;
+}
+#body .header .integrantes{
+	padding: 0;
 }
